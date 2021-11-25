@@ -9,10 +9,10 @@ I'm just a data scientist playing with images.
 ## 📈 GitHub Stats
 
 <a href="https://github.com/EdgarLefevre">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EdgarLefevre&hide=contribs,prs&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=EdgarLefevre&hide=contribs,prs&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/EdgarLefevre">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarLefevre&hide=TeX&layout=compact&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarLefevre&hide=TeX&layout=compact&theme=radical" />
 </a>
 
 <br>
