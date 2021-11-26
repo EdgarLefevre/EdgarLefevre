@@ -6,6 +6,8 @@ I'm just a data scientist playing with images.
   <img align="left" alt="Edgar's Linkedin" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br/>
+
 ## 📈 GitHub Stats
 
 <a href="https://github.com/EdgarLefevre">
