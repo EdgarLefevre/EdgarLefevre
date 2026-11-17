@@ -19,8 +19,6 @@
 ## À propos
  
 - 🔭 Je me réoriente vers l'**administration systèmes et réseaux**, après des missions de plus en plus proches du système et de son maintien en conditions opérationnelles.
-- 🧪 Je construis un **laboratoire réseau multi-sites** pour pratiquer ce que je vise en production (voir ci-dessous).
-- 🌴 Je prépare mon installation à La Réunion. <!-- Retire cette ligne si tu ne souhaites pas l'afficher publiquement. -->
 - 🗣️ Français (natif), anglais (C1), espagnol (A2).
 ---
 
